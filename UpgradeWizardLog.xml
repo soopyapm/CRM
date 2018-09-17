@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\NewCRM_MVC.csproj" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_ChangePasswordPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_ChangePasswordPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_ChangePasswordPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_ChangePasswordPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_ExternalLoginsListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_ExternalLoginsListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_ExternalLoginsListPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_ExternalLoginsListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_RemoveExternalLoginsPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_RemoveExternalLoginsPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_RemoveExternalLoginsPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_RemoveExternalLoginsPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_SetPasswordPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_SetPasswordPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_SetPasswordPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\_SetPasswordPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\ExternalLoginConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\ExternalLoginConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="ExternalLoginConfirmation.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\ExternalLoginConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\ExternalLoginFailure.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\ExternalLoginFailure.cshtml" />
+  <event action="Analyze" type="Success" name="ExternalLoginFailure.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\ExternalLoginFailure.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Login.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Login.cshtml" />
+  <event action="Analyze" type="Success" name="Login.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Login.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Login2.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Login2.cshtml" />
+  <event action="Analyze" type="Success" name="Login2.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Login2.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Manage.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Manage.cshtml" />
+  <event action="Analyze" type="Success" name="Manage.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Manage.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Register.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Register.cshtml" />
+  <event action="Analyze" type="Success" name="Register.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Account\Register.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_CancelTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_CancelTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_CancelTicketPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_CancelTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_CloseTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_CloseTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_CloseTicketPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_CloseTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_ForwardPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_ForwardPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_ForwardPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_ForwardPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_ReOpenTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_ReOpenTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_ReOpenTicketPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_ReOpenTicketPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_SearchPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_SearchPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_SearchPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_SearchPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_TicketListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_TicketListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_TicketListPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\_TicketListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\AdvanceSearch.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\AdvanceSearch.cshtml" />
+  <event action="Analyze" type="Success" name="AdvanceSearch.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\AdvanceSearch.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\CallbackTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\CallbackTickets.cshtml" />
+  <event action="Analyze" type="Success" name="CallbackTickets.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\CallbackTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\CanceledTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\CanceledTickets.cshtml" />
+  <event action="Analyze" type="Success" name="CanceledTickets.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\CanceledTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ClosedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ClosedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="ClosedTickets.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ClosedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ForwardedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ForwardedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="ForwardedTickets.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ForwardedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\Inbox.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\Inbox.cshtml" />
+  <event action="Analyze" type="Success" name="Inbox.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\Inbox.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\OpenTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\OpenTickets.cshtml" />
+  <event action="Analyze" type="Success" name="OpenTickets.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\OpenTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ReceivedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ReceivedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="ReceivedTickets.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Home\ReceivedTickets.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\AddRole.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\AddRole.cshtml" />
+  <event action="Analyze" type="Success" name="AddRole.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\AddRole.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\CallerType.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\CallerType.cshtml" />
+  <event action="Analyze" type="Success" name="CallerType.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\CallerType.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\CallReason.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\CallReason.cshtml" />
+  <event action="Analyze" type="Success" name="CallReason.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\CallReason.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\ChannelDepartmentMapping.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\ChannelDepartmentMapping.cshtml" />
+  <event action="Analyze" type="Success" name="ChannelDepartmentMapping.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\ChannelDepartmentMapping.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Company.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Company.cshtml" />
+  <event action="Analyze" type="Success" name="Company.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Company.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Departments.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Departments.cshtml" />
+  <event action="Analyze" type="Success" name="Departments.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Departments.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\EmailSetup.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\EmailSetup.cshtml" />
+  <event action="Analyze" type="Success" name="EmailSetup.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\EmailSetup.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\LogoutReason.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\LogoutReason.cshtml" />
+  <event action="Analyze" type="Success" name="LogoutReason.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\LogoutReason.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Reasons.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Reasons.cshtml" />
+  <event action="Analyze" type="Success" name="Reasons.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Reasons.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Skills.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Skills.cshtml" />
+  <event action="Analyze" type="Success" name="Skills.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\Skills.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\TicketType.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\TicketType.cshtml" />
+  <event action="Analyze" type="Success" name="TicketType.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\MasterData\TicketType.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_CallerDetails.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_CallerDetails.cshtml" />
+  <event action="Analyze" type="Success" name="_CallerDetails.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_CallerDetails.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_CallerTicketHistory.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_CallerTicketHistory.cshtml" />
+  <event action="Analyze" type="Success" name="_CallerTicketHistory.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_CallerTicketHistory.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_TicketDetails.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_TicketDetails.cshtml" />
+  <event action="Analyze" type="Success" name="_TicketDetails.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_TicketDetails.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_ViewTicketDetails.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_ViewTicketDetails.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewTicketDetails.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\_ViewTicketDetails.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\ReceiveCall\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_HomeLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_HomeLayout.cshtml" />
+  <event action="Analyze" type="Success" name="_HomeLayout.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_HomeLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_LoginLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_LoginLayout.cshtml" />
+  <event action="Analyze" type="Success" name="_LoginLayout.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_LoginLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_LoginPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_LoginPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_LoginPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_LoginPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_MainLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_MainLayout.cshtml" />
+  <event action="Analyze" type="Success" name="_MainLayout.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_MainLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_MasterDataLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_MasterDataLayout.cshtml" />
+  <event action="Analyze" type="Success" name="_MasterDataLayout.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_MasterDataLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_ReceivePageLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_ReceivePageLayout.cshtml" />
+  <event action="Analyze" type="Success" name="_ReceivePageLayout.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\_ReceivePageLayout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Error.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\_ViewUserPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\_ViewUserPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewUserPartial.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\_ViewUserPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\CreateEmployee.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\CreateEmployee.cshtml" />
+  <event action="Analyze" type="Success" name="CreateEmployee.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\CreateEmployee.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\CreateUser.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\CreateUser.cshtml" />
+  <event action="Analyze" type="Success" name="CreateUser.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\CreateUser.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\RolePrivillages.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\RolePrivillages.cshtml" />
+  <event action="Analyze" type="Success" name="RolePrivillages.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\RolePrivillages.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\UserDivision.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\UserDivision.cshtml" />
+  <event action="Analyze" type="Success" name="UserDivision.cshtml" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\UserAdmin\UserDivision.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\Web.Release.config" />
+  <event action="Analyze" type="Success" name="NewCRM_MVC" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC\NewCRM_MVC.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\NewCRM_MVC.ResourceFiles.csproj" />
+  <event action="Analyze" type="Success" name="CreateEmployee.ar-SA.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\CreateEmployee.ar-SA.resx" />
+  <event action="Analyze" type="Success" name="CreateEmployee.en-GB.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\CreateEmployee.en-GB.resx" />
+  <event action="Analyze" type="Success" name="CreateEmployee.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\CreateEmployee.resx" />
+  <event action="Analyze" type="Success" name="CreateUser.ar-SA.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\CreateUser.ar-SA.resx" />
+  <event action="Analyze" type="Success" name="CreateUser.en-GB.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\CreateUser.en-GB.resx" />
+  <event action="Analyze" type="Success" name="CreateUser.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\CreateUser.resx" />
+  <event action="Analyze" type="Success" name="Layout.ar-SA.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\Layout.ar-SA.resx" />
+  <event action="Analyze" type="Success" name="Layout.en-GB.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\Layout.en-GB.resx" />
+  <event action="Analyze" type="Success" name="Layout.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\Layout.resx" />
+  <event action="Analyze" type="Success" name="MainLayout.ar-SA.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\MainLayout.ar-SA.resx" />
+  <event action="Analyze" type="Success" name="MainLayout.en-GB.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\MainLayout.en-GB.resx" />
+  <event action="Analyze" type="Success" name="MainLayout.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\MainLayout.resx" />
+  <event action="Analyze" type="Success" name="MasterDataLayout.ar-SA.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\MasterDataLayout.ar-SA.resx" />
+  <event action="Analyze" type="Success" name="MasterDataLayout.en-GB.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\MasterDataLayout.en-GB.resx" />
+  <event action="Analyze" type="Success" name="MasterDataLayout.resx" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\LocalResources\MasterDataLayout.resx" />
+  <event action="Analyze" type="Success" name="NewCRM_MVC.ResourceFiles" path="D:\Abdulla\Projects\NewCRM_MVC\ResourceFiles\NewCRM_MVC.ResourceFiles.csproj" />
+  <event action="Analyze" type="Success" name="NewCRM_MVC" path="D:\Abdulla\Projects\NewCRM_MVC\NewCRM_MVC.sln" />
+</log>
